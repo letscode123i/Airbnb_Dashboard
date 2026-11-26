@@ -66,7 +66,7 @@ Travel and hospitality teams can spot which cities have the biggest share and wh
 Hosts and investors can see where competition is heavy and where quality scores leave room to stand out (cleanliness and value, for example).
 Analysts and policy people can look at how regulation and events like COVID showed up in listing growth
 
-Airbnb_dashboard.png
+Airbnb_Dashboard/Airbnb_dashboard.png
 
 
 
